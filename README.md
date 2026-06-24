@@ -80,6 +80,13 @@ The dataset contains information about Spotify Top 50 songs worldwide, including
 * Song Duration Analysis
 * Interactive Filters and Slicers
 
+* <h2>📊 Dashboard</h2>
+
+<p align="center">
+  <img src="Spotify_Dashboard.png" width="800">
+</p>
+
+
 ---
 
 ## Repository Files
